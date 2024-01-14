@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yanicarlotta
+- 👋 Hi, I’m Yani
 - 🎓 I'm a Junior Analyst
 - 👀 I’m interested in building my skills professionally. 
 - 📫 How to reach me my discord: TheGhak#5081
