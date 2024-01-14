@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GitGood12
+- 👋 Hi, I’m @yanicarlotta
 - 🎓 I'm a Junior Analyst
 - 👀 I’m interested in building my skills professionally. 
-- 🌱 I’m currently learning mongodb, javascript and SQL.
-- 💞️ I’m looking to collaborate on any project that is available.
 - 📫 How to reach me my discord: TheGhak#5081
 
 <!---
