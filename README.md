@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yani
 - 🎓 I'm a Junior Data Analyst
 - 👀 I’m interested in building my skills professionally. 
-- 📫 Reach me through LinkedIn: https://www.linkedin.com/in/jahcarlotta/
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/jahcarlotta/)
 
 <!---
